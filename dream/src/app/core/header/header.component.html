@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a routerLink="/" class="navbar-brand">Recipe Book</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+    (click)="onToggle($event)">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav nav-pills mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="recipes" routerLinkActive="active">Recipe</a>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="shopping-list" routerLinkActive="active">Shopping List</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav nav-pills">
+      <li class="nav-item" *ngIf="!(authState | async).authenticated">
+        <a routerLink="signup" routerLinkActive="active" class="nav-link">Register</a>
+      </li>
+      <li class="nav-item" *ngIf="!(authState | async).authenticated">
+        <a routerLink="/signin" routerLinkActive="active" class="nav-link">Login</a>
+      </li>
+      <li
+        class="nav-item dropdown"
+        (click)="openDropwodwnMenu('dropdown-menu--header')"
+        *ngIf="(authState | async).authenticated">
+        <a class="nav-link dropdown-toggle" style="cursor: pointer;" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu dropdown-menu--header" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" style="cursor: pointer;" (click)="onSaveData()">Save Data</a>
+          <a class="dropdown-item" style="cursor: pointer;" (click)="onFetchData()">Fetch Data</a>
+        </div>
+      </li>
+      <li class="nav-item" *ngIf="(authState | async).authenticated">
+        <a style="cursor: pointer;" class="nav-link" (click)="onLogout()">Logout</a>
+      </li>
+    </ul>
+  </div>
+</nav>

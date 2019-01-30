@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-12">
+    <button class="btn btn-success" (click)="onNewRecipe()">New Recipe</button>
+  </div>
+</div>
+<hr>
+<div class="form-group">
+  <label class="form-text" for="recipeSearchInput">Filter by recipe name</label>
+  <input
+    type="text"
+    class="form-control"
+    id="recipeSearchInput"
+    [(ngModel)]="filteredName">
+</div>
+<div class="row">
+  <div class="col-12">
+    <app-recipe-item
+      *ngFor="let recipe of (recipes | async).recipes | filter:filteredName.toLowerCase():'name'; let i = index"
+      [recipeItem]="recipe"
+      [recipeIndex]="i">
+    </app-recipe-item>
+  </div>
+</div>

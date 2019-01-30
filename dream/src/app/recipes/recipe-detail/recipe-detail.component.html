@@ -1,0 +1,37 @@
+<div class="row">
+  <div class="col-12">
+    <img [src]="(recipeState | async).recipes[id].imagePath" alt="" class="img-fluid" style="max-height: 200px;">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <h1>{{ (recipeState | async).recipes[id].name }}</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <div class="btn-group" role="group" (click)="openDropwodwnMenu('dropdown-menu--recipe')">
+      <button type="button" class="btn btn-primary dropdown-toggle">Manage Recipe</button>
+      <ul class="dropdown-menu dropdown-menu--recipe">
+        <li class="dropdown-item"><a (click)="onAddToShoppingList()" style="cursor: pointer;">To Shopping List</a></li>
+        <li class="dropdown-item"><a style="cursor: pointer;" (click)="onEditREcipe()">Edit Recipe</a></li>
+        <li class="dropdown-item"><a style="cursor: pointer;" (click)="onDeleteRecipe()">Delete Recipe</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    {{ (recipeState | async).recipes[id].description }}
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <ul class="list-group">
+      <li class="list-group-item"
+      *ngFor="let ingredient of (recipeState | async).recipes[id].ingredients">
+        {{ ingredient.name }} - {{ ingredient.amount }}
+      </li>
+    </ul>
+  </div>
+</div>

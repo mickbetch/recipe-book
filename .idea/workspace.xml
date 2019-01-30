@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60343da0-98ca-46b5-a042-322f6d5e427e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1459047748">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="56" />
+          <entry key="ts" value="4423" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="56" />
+          <entry key="TypeScript" value="4423" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="ts" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="TypeScript" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="angular7" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="header.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dream/src/app/core/header/header.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dream/src/app/core/core.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipe-list.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-list/recipe-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipe-detail.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dream/dist/dream/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="recipe-edit.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-edit/recipe-edit.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>def</find>
+      <find>startedEditing</find>
+      <find>deletedIngredient</find>
+      <find>navbarSupportedContent</find>
+      <find>slService</find>
+      <find>dataStorageService</find>
+      <find>recipeService</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dream/src/app/auth/signin/signin.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/main.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shared/notifiaction/notifiaction.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-list.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/auth.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/styles.scss" />
+        <option value="$PROJECT_DIR$/dream/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/home/home.component.scss" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipes-routing.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/auth-routing.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-edit/recipe-edit.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/dream/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/core/home/home.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/shared/data-storage.service.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shared/logging.interceptor.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-list.reducers.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-list.service.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/store/shopping-list.actions.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-list.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shopping-list/store/shopping-list.reducers.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/store/app.reducers.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/auth-guard.service.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/core/header/header.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/store/auth.reducers.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/shared/auth.interceptor.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/store/auth.actions.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/signup/signup.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/signin/signin.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/auth.service.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/auth/store/auth.effects.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-list/recipe-list.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/store/recipe.reducers.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe.service.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/store/recipe.actions.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipes.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/store/recipe.effects.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/core/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/core/core.module.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-list/recipe-list.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-edit/recipe-edit.component.ts" />
+        <option value="$PROJECT_DIR$/dream/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/dream/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/dream/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="angular7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular7" type="462c0819:PsiDirectoryNode" />
+              <item name="dream" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PRACTICE/LazyLoading" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/dream/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Training\angular7\dream\src\app\shopping-list\store" />
+      <recent name="D:\Training\angular7\dream\src\app\core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60343da0-98ca-46b5-a042-322f6d5e427e" name="Default" comment="" />
+      <created>1545894928663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545894928663</updated>
+      <workItem from="1545894933351" duration="17108000" />
+      <workItem from="1545984255446" duration="13512000" />
+      <workItem from="1546095247579" duration="763000" />
+      <workItem from="1546152235442" duration="11245000" />
+      <workItem from="1546340275807" duration="1195000" />
+      <workItem from="1546412027879" duration="9771000" />
+      <workItem from="1546496775475" duration="10453000" />
+      <workItem from="1546584450111" duration="19480000" />
+      <workItem from="1546689635169" duration="25672000" />
+      <workItem from="1546885406707" duration="378000" />
+      <workItem from="1546929815066" duration="15417000" />
+      <workItem from="1546959934195" duration="353000" />
+      <workItem from="1547014684149" duration="6943000" />
+      <workItem from="1547026683802" duration="4145000" />
+      <workItem from="1547101375319" duration="2058000" />
+      <workItem from="1547121958792" duration="1188000" />
+      <workItem from="1547188589084" duration="48000" />
+      <workItem from="1547382311679" duration="11650000" />
+      <workItem from="1547446227553" duration="2673000" />
+      <workItem from="1547532528806" duration="2230000" />
+      <workItem from="1547618933149" duration="2875000" />
+      <workItem from="1547792000045" duration="3567000" />
+      <workItem from="1547886340860" duration="3524000" />
+      <workItem from="1547919662846" duration="29000" />
+      <workItem from="1548134579495" duration="5808000" />
+      <workItem from="1548226304530" duration="8752000" />
+      <workItem from="1548326149208" duration="42000" />
+      <workItem from="1548399634272" duration="6064000" />
+      <workItem from="1548415267056" duration="23000" />
+      <workItem from="1548572244130" duration="11639000" />
+      <workItem from="1548656759697" duration="27000" />
+      <workItem from="1548658840737" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198633000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3110048" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50132906" side_tool="true" weight="0.27667493" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4986709" visible="true" weight="0.3287841" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.19266056" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29701835" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20042531" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="8" weight="0.39454094" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4986709" visible="true" weight="0.27667493" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50132906" side_tool="true" visible="true" weight="0.27667493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dream/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dream/src/app/core/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dream/src/app/core/core.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-list/recipe-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dream/src/app/recipes/recipe-edit/recipe-edit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dream/dist/dream/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
